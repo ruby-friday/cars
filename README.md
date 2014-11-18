@@ -4,7 +4,7 @@
  - create a car class with any attributes you wish. Attrtibutes are characteristics of the objects you will create from the class .e.g. car could have model, maker, year, color e.t.c.
  - I know we have not yet covered how to use multiple files so I included the cars file inside our app for you :-)
  - In app.rb you will create 3 or more instances (objects) of the car and put them in an array called. e.g 
- - If i wanted to create a Jeep Cheroke
+ - If i wanted to create a Jeep Cherokee
 
   `@car1 = Car.new(name: 'Jeep', color: 'gray')`
   
