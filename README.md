@@ -9,7 +9,7 @@
   `@car1 = Car.new(name: 'Jeep', color: 'gray')`
   
   
-  `@cars = [@car1, .... other cars separeted by comas]`
+  `@cars = [@car1, .... other cars separated by comas]`
   
 - Using the knowledge of sinatra you learnt the other week, you will remember how we display things in erb
 - Now we shall need to display our cars on the page. 
